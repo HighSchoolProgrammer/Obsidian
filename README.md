@@ -1,2 +1,3 @@
 # Toolbox
-A multi-tool designed to make your life more efficient.
+A powerful multi-tool coded in python.
+
