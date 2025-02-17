@@ -1,0 +1,9 @@
+{
+    "name": "Obsidian",
+    "version-type": "indev",
+    "version": "0.0.0",
+    "author": "@HighSchoolProgrammer",
+    "license": "CC BY-ND 4.0",
+    "license-description": "Obsidian by @HighSchoolProgrammer is licensed under CC BY-ND 4.0",
+    "repository": "https://github.com/HighSchoolProgrammer/Obsidian"
+}
